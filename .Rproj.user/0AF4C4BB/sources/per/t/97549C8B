@@ -1,0 +1,26 @@
+{
+    "id": "97549C8B",
+    "path": "~/personal/github/census_tools/census_tools.R",
+    "project_path": "census_tools.R",
+    "type": "r_source",
+    "hash": "3707066692",
+    "contents": "",
+    "dirty": false,
+    "created": 1618411816221.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "207,0",
+        "scrollLine": "185"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1618597562,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1618597562799,
+    "read_only": false,
+    "read_only_alternatives": []
+}
